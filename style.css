@@ -401,7 +401,7 @@ html, body {
 }
 
 /*---------------------------------------mobile--------------------------------*/
-@media (max-width: 23.43rem) {
+@media (max-width: 25rem) {
   .header__menu-burger {
     display: block;
     cursor: pointer;
